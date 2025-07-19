@@ -4,7 +4,7 @@
 - 💻Programmar - Builder - Engineer 
 - 🎓 Graduated From NIT Uttarakhand 
 - 🌍 Living in Delhi, India
-- 🌱 Love building, learning, and exploring hiking
+- 🌱 Love building, learning, and exploring
 
 ### 🛠 Tech Stack
 
